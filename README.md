@@ -26,7 +26,7 @@ To visualize and explore how different lifestyle and health factors contribute t
 
   2.Sum of sleep quality and physical activity levels
 
-  3.Sleep Disorders Breakdown:
+  3.Sleep Disorders Breakdown
 
   4.Donut chart showing sleep disorder types (None, Insomnia, Sleep Apnea)
 
@@ -38,9 +38,14 @@ To visualize and explore how different lifestyle and health factors contribute t
 
   2.Identifies high-stress professions and its impact on sleep
 
-  3.Occupation-Based Sleep Trends:
+  3.Occupation-Based Sleep Trends
 
   4.Bar chart showing total sleep duration across various professions
+
+  ## Dashboard 
+
+  <a href="https://github.com/akashj0322/Data-Analysis-Dashboard/commit/c0bfda3fc0f0a4a27326a053319679463501bae4"> Dashboard</a>
+  
 
 
 
